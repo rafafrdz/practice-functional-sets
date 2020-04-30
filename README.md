@@ -1,14 +1,4 @@
- **Note: If you have paid for the Certificate, please make sure you are submitting to the required  assessment and not the optional assessment. If you mistakenly use the  token from the wrong assignment, your grades will not appear**
-
-Attention: You are allowed to submit **an unlimited number of times** for grade purposes. Once you have submitted your solution, you should  see your grade and a feedback about your code on the Coursera website  within 10 minutes. If you want to improve your grade, just submit an  improved solution. The best of all your submissions will count as the  final grade.
-
-In this assignment, you will work with a functional  representation of sets based on the mathematical notion of  characteristic functions. The goal is to gain practice with higher-order functions.
-
-[Download the funsets.zip](http://alaska.epfl.ch/~dockermoocs/handouts-coursera-2.13/funsets.zip) handout archive file and extract it somewhere on your machine. Write  your solutions by completing the stubs in the FunSets.scala file.
-
-Write your own tests! For this assignment, we don’t give you tests but  instead the FunSetSuite.scala file contains hints on how to write your  own tests for the assignment.
-
-## Representation
+# Representation
 
 We will work with sets of integers.
 
